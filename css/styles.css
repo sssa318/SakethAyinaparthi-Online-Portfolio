@@ -10144,4 +10144,8 @@ section.resume-section .resume-section-content {
   color: #3e8861;
   text-decoration: underline;
 }
+
+.mar{
+  margin-bottom: 1rem; !important
+}
 }
